@@ -1,6 +1,6 @@
 package pattern;
 
-public class seqno {
+public class seqno8 {
     public static void main(String[] args) {
         
     int n=5;
